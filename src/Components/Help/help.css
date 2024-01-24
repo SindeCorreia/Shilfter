@@ -1,0 +1,45 @@
+.Help{
+    height: 580px;;
+}
+#HelpText1{
+  margin-left: 300px; 
+}
+.NameHelp{
+    padding: 40px;
+}
+.EmailHelp{
+    padding: 40px;
+}
+
+.CommentsHelp{
+        padding: 40px;
+}
+.NameHelp1{
+    margin-left: 300px; 
+    width: 300px;
+    height: 30px;
+
+}
+.EmailHelp1{
+    margin-left: 300px; 
+    width: 400px;
+    height: 30px;
+}
+.CommentsHelp1{
+    margin-left: 300px; 
+    width: 400px;
+    height: 70px;
+}
+.HelpIcon{
+    align-items: center;
+    text-align: center;
+    padding: 10px;
+}
+.PhoneIcon{
+    width: 50px;
+    
+}
+.EmailIcon{
+    width: 50px;
+    padding-left:70px;
+}

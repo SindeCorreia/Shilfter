@@ -1,0 +1,68 @@
+.User {
+    height:500px;
+    padding: 50px;
+    display: flex;
+}
+.Sign
+{
+    background-color: #ADACAC;
+    height: 300px;
+    width:45%;
+    margin: 70px;
+    
+}
+.NewCostumer
+{
+    background-color: #ADACAC;
+    height: 300px;
+    width:45%;
+    margin: 70px;
+
+}
+#UserText1,#UserText2
+{
+    color:white;
+    display: flex;
+    justify-content: center;
+
+}
+
+.SingEmail{  
+    background-color:#D9D9D9;
+    display: flex;
+    justify-content: center;
+    padding: 20px;
+    margin: 30px;
+    margin-left: 130px;
+
+}
+.SingKey{ 
+    background-color:#D9D9D9;
+    display: flex;
+    justify-content: center;
+    padding: 20px;
+    margin-left: 130px;
+}
+.NewEmail{ 
+    background-color:#D9D9D9;
+    display: flex;
+    justify-content: center;
+    padding: 20px;
+    margin: 30px;
+    margin-left:140px;
+}
+#bt1{
+    padding: 10px;
+    margin-top: 20px;
+    margin-left: 200px;
+    background-color:#AB8F8F;
+}
+#bt2{
+    padding: 10px;
+    margin-top: 20px;
+    margin-left: 200px;
+    background-color:#AB8F8F;
+}
+p{
+    color:white;
+}

@@ -1,0 +1,40 @@
+.footericon{
+    width: 40px;
+    height: 40px;
+    padding: 15px;
+}
+.clothes{
+    padding: 60px;
+}
+footer{
+    background-color:#ADACAC;
+    /* margin-top: 480px; */
+    
+}
+.thefooter{
+    display: flex;
+}
+.footericon1{
+    align-items:center;
+    justify-content: center;
+    width: 40px;
+    height: 40px;
+    padding: 15px;
+}
+.linkword{
+    color: black;
+    text-decoration: none;
+    display: flex;
+    justify-content: center;
+}
+.iconleft{
+    margin-left: 70px;
+    padding-right: 300px;
+
+}
+.linkfooter {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+  }
+  
